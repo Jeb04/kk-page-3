@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fcef91;
+}
+
+.navbar{
+          background-color: #ffbd59;
+          padding: 50px;
+          gap: 25px;
+        }
+
+        .nav-btn{
+          background-color: #fb9e3a;
+          padding: 10px 25px;
+          border-radius: 25px;
+          font-size: x-large;
+          border: none;
+        }
+
+        .nav-btn.active{
+          background-color: #e6521f;
+        }
+        
+        h2{
+            text-align: center;
+        }
+
+
+        .box{
+        background-color:  #ffbd59;
+         align-items: stretch;
+         padding: 20px;
+         margin: 20px;
+         border-radius: 20px;
+         border: 2px dashed #e6953b;
+         text-align: center;
+        }
+
+        email{
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        footer{
+            background-color: #ffbd59;
+            text-align: center;
+            padding: 25px;
+            margin-top: 20px;
+        }
